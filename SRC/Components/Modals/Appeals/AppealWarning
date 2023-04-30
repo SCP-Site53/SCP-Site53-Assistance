@@ -1,0 +1,43 @@
+const { EmbedBuilder } = require("discord.js");
+const { Webhook } = require('../../../../Utilities/Functions/Webhooks');
+const Settings = require('../../../../Utilities/Configuration Files/Default Files/Settings.json');
+
+module.exports = {
+	Data: {
+    Identity: 'appeal-warning',
+  },
+	async Execute(interaction) {
+    const Footer = { text: `Department of External Affairs`, iconURL: Settings.Footer.iconURL };
+    const Punishment = interaction.fields.getTextInputValue('punishment');
+    const Appeal = interaction.fields.getTextInputValue('appeal');
+    Webhook(interaction, Settings.Channels.Utility.Appeals.Identity, {
+      username: `Warning Appeal`,
+      embeds: [
+        new EmbedBuilder()
+        .setColor(Settings.Color)
+        .setAuthor({ name: interaction.user.tag, iconURL: interaction.user.displayAvatarURL() })
+        .setTitle(`Warning Appeal`)
+        .setDescription(`${interaction.user} submitted a warning appeal.`)
+        .setThumbnail(interaction.guild.iconURL({ dynamic: true }))
+        .addFields(
+          { name: `Why were you warned?`, value: `${Punishment}`},
+          { name: `Why should we remove your warning?`, value: `${Appeal}`},
+        )
+        .setFooter(Footer)
+        .setTimestamp()
+      ],
+    });
+    await interaction.reply({ 
+      embeds: [
+        new EmbedBuilder()
+        .setColor(Settings.Color)
+        .setAuthor({ name: interaction.guild.name, iconURL: interaction.guild.iconURL() })
+        .setDescription(`Your appeal was recorded.`)
+        .setThumbnail(interaction.guild.iconURL({ dynamic: true }))
+        .setTimestamp()
+        .setFooter(Footer)
+      ], 
+      ephemeral: true,
+    });
+	},
+};

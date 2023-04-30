@@ -1,0 +1,31 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Support Hub",
+      "description": "Let us know if you have any questions or concerns! Help is only a few clicks away!\n​",
+      "color": 8323072,
+      "fields": [
+        {
+          "name": "File a Case",
+          "value": "> All SCP Site53 members have the right to file a case. There is no guarantee on how long this may take. Click on the menu below to file a case.\n​",
+          "inline": true
+        },
+        {
+          "name": "Getting Started",
+          "value": "> Check out the secrets and lore behind [SCP Site53](https://sites.google.com/view/scpsite53). You can also view information about our staff, whitelisted department, and other resources.",
+          "inline": true
+        },
+        {
+          "name": "Community Support",
+          "value": "Review [online forums](https://discord.com/channels/932845698662162432/1060767820050337903) created by our Site53 enthusiasts, experts, and staff members. This is the quickest option."
+        }
+      ],
+      "author": {
+        "name": "SCP Site53",
+        "icon_url": "https://cdn.discordapp.com/icons/932845698662162432/7afd5a3669b21afe908907db6718ebe0.webp"
+      }
+    }
+  ],
+  "attachments": []
+}

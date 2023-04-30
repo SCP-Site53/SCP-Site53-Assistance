@@ -1,0 +1,21 @@
+{
+  "token": "[REDACTED]",
+	"main_guild": {
+		"identity": "[REDACTED]"
+	},
+  "contributors": {
+    "developers": {
+      "988831285491421235": {
+        "name": "AlwaysHappyMichael",
+        "rank": "Main Developer"
+      },
+      "553389554271256610": {
+        "name": "Fallen",
+        "rank": "Developer"
+      }
+    },
+    "beta_testers": {
+    }
+  },
+  "color": "7F0000"
+}

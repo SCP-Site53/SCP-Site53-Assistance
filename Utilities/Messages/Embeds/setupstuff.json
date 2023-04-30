@@ -1,0 +1,38 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "title": "Click For Notifications",
+        "description": "Want to be notified for a specific topic you're interested in? Click on the menu below this message.\n​",
+        "color": 8323072,
+        "fields": [
+          {
+            "name": "<:Server:1061829455506583602> Executives",
+            "value": "The people above everyone in the server (they can do something evil and no one can stop them). These people are usually owners and founders of a guild."
+          },
+          {
+            "name": "<:Bullsht:1061829455506583602> Management",
+            "value": "These are the people that do an Executive member's dirty work. They dictate the server (mainly people below them) and respect the Executive members.\n**•**"
+          },
+          {
+            "name": "<:Events:1061829455506583602> Events",
+            "value": "Become  notified on game nights, special tryouts, giveaways, and more!"
+          },
+          {
+            "name": "<:Updates:1061829455506583602> Updates",
+            "value": "Become  notified when we annouce updated to the server."
+          },
+          {
+            "name": "<:Lore:1061829455506583602> Lore Updates",
+            "value": "Become notified when there is a update on Site53's lore."
+          }
+        ],
+        "author": {
+          "name": "Extra Roles",
+          "icon_url": "https://cdn.discordapp.com/attachments/992969548598870067/1019437585149464616/unknown.png"
+        }
+      }
+    ],
+    "username": "Extra Roles",
+    "attachments": []
+  }
