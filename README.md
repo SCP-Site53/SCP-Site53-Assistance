@@ -10,7 +10,7 @@
     <a href="https://sites.google.com/view/scpsite53/home"><b>Website</b></a> •
     <a href="https://discord.gg/pgfmgA6Tv2"><b>Discord</b></a> •
     <a href="https://www.roblox.com/groups/8448250/SCP-Site53-ER-LC-Server#!/about"><b>Roblox Group</b></a> •
-    <a href="https://discord.gg/pgfmgA6Tv2](https://github.com/SCP-Site53/SCP-Site53-Assistance/blob/main/Information/Documents/CHANGELOG.md"><b>Changelog</b></a>
+    <a href="https://github.com/SCP-Site53/SCP-Site53-Assistance/blob/main/Information/Documents/CHANGELOG.md"><b>Changelog</b></a>
 </p>
 
 <div align="center">
