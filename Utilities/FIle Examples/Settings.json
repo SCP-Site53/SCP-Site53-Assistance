@@ -1,0 +1,158 @@
+{
+  "color": 8323072,
+  "footer": {
+    "text": "Site53 Management",
+    "icon_url": "https://cdn.discordapp.com/icons/932845698662162432/7afd5a3669b21afe908907db6718ebe0.webp"
+  },
+  "old_footer": {
+    "text": "Site53 Management",
+    "icon_url": "https://cdn.discordapp.com/icons/932845698662162432/7afd5a3669b21afe908907db6718ebe0.webp"
+  },
+  "ephemeral": true,
+  "ephermeral": true,
+  "emojis": {
+    "appeals": {
+      "main": {
+        "identity": "1022640444351467651"
+      },
+      "appeal": {
+        "identity": "1041835908133031976"
+      }
+    }
+  },
+  "links": {
+    "rules": {
+      "in_game_rules_urls": {
+        "public": "https://sites.google.com/view/scpsite53/general-rules",
+        "whitelisted": "https://sites.google.com/view/scpsite53/whitelisted-access-server/rules"
+      }
+    },
+    "invites": {
+      "main_guild": {
+        "main_invite": "https://discord.gg/pgfmgA6Tv2"
+      }
+    },
+    "appeals": {
+      "bans": "https://discord.gg/m7BwrYm8gE",
+      "kicks": "https://discord.gg/m7BwrYm8gE",
+      "timeouts_and_mutes": "https://discord.gg/m7BwrYm8gE",
+      "warnings": "https://discord.gg/m7BwrYm8gE"
+    }
+  },
+  "channels": {
+    "moderation": {
+      "commands": "1012544401786015804",
+      "ban_on_sight": "995390317702414387",
+      "punishments": "934606117533810728"
+    },
+    "shifts": "1035150202979495966",
+    "audit": {
+      "member": {
+        "add": "932855124286640178",
+        "remove": "932855188069433394",
+        "roles": {
+          "update": "932853080700108910"
+        }
+      },
+      "message": {
+        "delete": "1036398072986607616"
+      },
+      "other": {
+        "identity": "932853080700108910"
+      }
+    },
+    "utility": {
+      "appeals": "932853080700108910",
+      "bolos": {
+        "bans": "995390317702414387"
+      },
+      "manual_logs": {
+        "punishments": "934606117533810728"
+      },
+      "server_status_channels": {
+        "public": "1006360796336488498",
+        "whitelisted": "932855124286640178"
+      },
+      "leave_of_absences": { 
+        "request": "1049882711394881586"
+      }
+    },
+    "ticket": {
+      "create": "1057402218908753980"
+    },
+    "information": {
+      "application": "960738650822426664",
+      "information": "987867111307243600",
+      "rules": "932857463970078740"
+    }
+  },
+  "notifications": {
+    "server_startups": "942241325347123251",
+    "bullshit": "942241648493076511",
+    "events": "942241544252063744",
+    "updates": "942241742906867742",
+    "factions": "1033820648482558023"
+  },
+  "servers": {
+    "emergency_responce_liberty_county": {
+      "public": {
+        "code": "SCPRPPA",
+        "owner": "SWATMANUNIT",
+        "name": "SCP Site53 | SCP Roleplay"
+      },
+      "whitelisted": {
+        "code": "ProSCPRP",
+        "owner": "SWATMANUNIT",
+        "name": "SCP Site53 | Whitelisted Server"
+      }
+    }
+  },
+  "roles": {
+    "staff": {
+      "utilities": {
+        "on_duty": "1000805902745616465",
+        "on_break": "1075209760326045726",
+        "leave_of_absence": "1013560339457118238"
+      },
+      "ranks": {
+        "executive": [
+          "1028701926403080313",
+          "1029155238189481994",
+          "932847168916717589",
+          "932847169898184794"
+        ],
+        "management": [
+          "1023780197478170675",
+          "1037500855349411950",
+          "1025210499895406642",
+          "1012576320103907349"
+        ],
+        "internal_affairs": [
+          "954185953788956722",
+          "1037123780251750540",
+          "1036844930427002891",
+          "1036844169605423116",
+          "1036843979930619975",
+          "1036843649268453426"
+        ],
+        "administrator": [
+          "1000145207129555074",
+          "1000146827523403806",
+          "1000149902405414932",
+          "932847172150501386",
+          "932852103578288168",
+          "932847170711879690"
+        ],
+        "moderator": [
+          "999537712514220103",
+          "1023810062189346827",
+          "1000146797827719260",
+          "932847173161324615",
+          "1000146832585928725",
+          "996441212376600668"
+        ]
+      }
+    }
+  }
+}
+  

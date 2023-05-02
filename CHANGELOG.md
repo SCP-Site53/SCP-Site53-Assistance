@@ -2,14 +2,20 @@
 
 ## 2023.5.1
 
+### Bug Fixes
+* **Frontier:** fixed path typo. 
+
+### Deprecated
+* **Information Directory:** moved all files from the directory to other areas.
+
 ### Refactors
-* **Changelog:** updated changelog.
+* **Infomation.json:** now called `config.json`.
 
 ## 2023.4.30
 
 ### Features
-* **ReadMe:** added a ReadMe file.
-* **Github:** added to Github.
+* **Github:** uploaded files to Github.
+* **README.md:** created a README.md file.
 
 ## 2023.3.30
 

@@ -1,0 +1,42 @@
+{
+  "embeds": [
+    {
+      "title": "Pings That Don't Annoy You",
+      "description": "Tired of getting a @everyone ping for small events? We have solutions. Instead of high ranks choosing when to ping you, you can choose when you want to be pinged.\n​",
+      "color": 3447003,
+      "fields": [
+        {
+          "name": "<:ShitCloud:1058094025095249991> Shit Ping",
+          "value": "> If you have this ping, our high ranks can ping you whenever they want. Sometimes the pings are helpful.",
+          "inline": true
+        },
+        {
+          "name": "<:Events:1058094012910796900> Events Ping",
+          "value": "> Whenever a high rank hosts an event, they will ping you. This is for active members.",
+          "inline": true
+        },
+        {
+          "name": "\n\u200b​",
+          "value": "​\n\u200b"
+        },
+        {
+          "name": "<:Polls:1058094040467378276> Polls Ping",
+          "value": "> Our high ranks will ping you in [polls](https://discord.com/channels/972686079830401135/1046206594284789780) whenever there is a poll.",
+          "inline": true
+        },
+        {
+          "name": "<:Giveaway:1058094054929342645> Giveaway Ping",
+          "value": "> Our high ranks will ping you whenever there is a giveaway.",
+          "inline": true
+        }
+      ],
+      "author": {
+        "name": "​Oblivion",
+        "icon_url": "https://cdn.discordapp.com/icons/1057709854854230118/51b5f74cc1f917dfe2a9c1e9704f3725.png?size=4096"
+      },
+      "footer": {
+        "text": "\u200b​"
+      }
+    }
+  ]
+}

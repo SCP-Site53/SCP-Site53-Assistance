@@ -1,6 +1,6 @@
 {
   "name": "scp-site53-assistance",
-  "version": "2023.3.30",
+  "version": "2023.5.1",
   "main": "SRC/Index.js",
   "type": "module",
   "dependencies": {
